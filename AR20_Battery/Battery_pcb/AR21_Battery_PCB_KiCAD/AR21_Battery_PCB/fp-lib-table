@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name AR21_Battery_lib)(type KiCad)(uri ${KIPRJMOD}/lib/AR21_Battery_lib.pretty)(options "")(descr ""))
-)
